@@ -1,4 +1,4 @@
-Ultimate Sim Sports - includes College Basketball Dynasty
+Ultimate Sim Sports
 ===================
 
 This project is now going to be completely closed source at this time. Maybe I will open it up but I want to have this idea as an option ot make money in the future but I want to try to have it free to the public when it launches.  
@@ -18,7 +18,7 @@ Bootstrap
 
 
 Features
-========
+===================
 
 - Dynasty
 - College Basketball
